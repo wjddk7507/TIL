@@ -5,6 +5,9 @@
 ### [🥈 ALGORITHM 공부](ALGORITHM)
   - [이론공부](ALGORITHM/STUDY)
   - [문제풀기](ALGORITHM/CODINGTEST)
+
+### [🌏 WEB 공부](WEB)
+  - [JPA 공부](WEB/SPRING/JPA)
   
 ### [🤖 AI 공부](AI)  
   - [google colab 얼굴인식](AI/DL/Google%20Colab)
